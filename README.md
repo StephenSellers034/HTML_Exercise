@@ -52,7 +52,7 @@ Steps are to be completed under the div with `id="exercise5"`
 
 1. Edit the blog post so that more _semantically meaningful_ elements are used instead of generic **division** containers.
    - You will need to use
-     - **one main element**
+     - **one main element** // done
      - **three section elements**
      - **one article element**
      - **one header element**
